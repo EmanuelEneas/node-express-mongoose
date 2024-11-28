@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "duration": "142 min",
+    "poster": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg",
+    "genre": ["Drama"],
+    "rate": 9.3
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "duration": "175 min",
+    "poster": "https://m.media-amazon.com/images/I/41+eK8zBwQL._AC_.jpg",
+    "genre": ["Crime", "Drama"],
+    "rate": 9.2
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "duration": "152 min",
+    "poster": "https://m.media-amazon.com/images/I/51EbJjlKhGL._AC_.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "rate": 9.0
+  },
+  {
+    "id": 4,
+    "title": "12 Angry Men",
+    "year": 1957,
+    "director": "Sidney Lumet",
+    "duration": "96 min",
+    "poster": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SY679_.jpg",
+    "genre": ["Drama"],
+    "rate": 9.0
+  },
+  {
+    "id": 5,
+    "title": "Schindler's List",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "duration": "195 min",
+    "poster": "https://m.media-amazon.com/images/I/51NwKTFz7CL._AC_.jpg",
+    "genre": ["Biography", "Drama", "History"],
+    "rate": 8.9
+  },
+  {
+    "id": 6,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "director": "Peter Jackson",
+    "duration": "201 min",
+    "poster": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg",
+    "genre": ["Adventure", "Drama", "Fantasy"],
+    "rate": 8.9
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "duration": "154 min",
+    "poster": "https://m.media-amazon.com/images/I/51oBxmV-dML._AC_.jpg",
+    "genre": ["Crime", "Drama"],
+    "rate": 8.9
+  },
+  {
+    "id": 8,
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "director": "Sergio Leone",
+    "duration": "178 min",
+    "poster": "https://m.media-amazon.com/images/I/91Ks9WlE8PL._AC_SY679_.jpg",
+    "genre": ["Western"],
+    "rate": 8.8
+  },
+  {
+    "id": 9,
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "duration": "139 min",
+    "poster": "https://m.media-amazon.com/images/I/81D%2B0u4%2B22L._AC_SY679_.jpg",
+    "genre": ["Drama"],
+    "rate": 8.8
+  },
+  {
+    "id": 10,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "duration": "142 min",
+    "poster": "https://m.media-amazon.com/images/I/61zUbFmIgOL._AC_SY679_.jpg",
+    "genre": ["Drama", "Romance"],
+    "rate": 8.8
+  }
+]
